@@ -1,0 +1,12 @@
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/with-one-wing/microservice-order.git
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/with-one-wing/microservice-product.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/with-one-wing/microservice-user.git
+[submodule "common-modules"]
+	path = common-modules
+	url = https://github.com/with-one-wing/common-modules.git
