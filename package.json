@@ -21,7 +21,7 @@
     "imagemin-pngquant": "^7.0.0",
     "jsonwebtoken": "^8.4.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.4.4",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1",
     "pm2": "^3.2.9",
     "swagger-ui-express": "^4.0.2",
